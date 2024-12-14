@@ -493,7 +493,7 @@ body.is-usd .highlight-title {
 
 .banner {
     background-color: #000;
-    background-image: url(../images/index/Kinova-Gen3.webp);
+    background-image: url(../images/index/nation.jpg);
     background-position: top;
     background-size: cover;
     height: 0;
@@ -502,7 +502,7 @@ body.is-usd .highlight-title {
 
 @media only screen and (min-width: 768px) {
     .banner {
-        background-image:url(../images/index/Kinova-Gen3.webp);
+        background-image: url(../images/index/nation.jpg);
         height: calc(100vh - 88px);
         padding-top: 0
     }
